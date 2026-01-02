@@ -1,3 +1,5 @@
-customtkinter
+PyQt6
 yt-dlp
-Pillow
+requests
+pyperclip
+pyinstaller
